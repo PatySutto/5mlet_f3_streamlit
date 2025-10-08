@@ -1,6 +1,6 @@
 # Deploy  - Projeto da Pós Tech FIAP Fase 3
 
-Código para deploy do modelo de IA treinado no Render.<br>
+Código para deploy do modelo de IA treinado.<br>
 
 ## 🛠️ Como Executar o Projeto Localmente
 
